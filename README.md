@@ -7,4 +7,6 @@
 
 [GERADOR DE SENHAS](https://github.com/edvaaaan/python-mini-games/blob/main/password.py) ➡ Ele gera uma senha de 3 caracteres (1 número, 1 letra minúscula e 1 letra maiúscula)
 
+[GERADOR DE SENHAS](https://github.com/edvaaaan/python-mini-games/blob/main/casino.py) ➡ Um casino que apresenta dois jogos com apostas 
+
 ---
